@@ -4,5 +4,5 @@ Este proyecto implica la creación de un sistema integral para la administració
 
 ![video muestra](./assets/1.gif)
 
-#Notas: 
+# Notas: 
 El archivo `index.cs` es la primera versión de este proyecto. El archivo `sistema_pagos.cs` es la versión final.
